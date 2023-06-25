@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: brown;
+    text-align: center;
+  }
+  
+  .logo {
+    font-size: 40px;
+    color: orange;
+    margin: 25px 0px 50px 0px;
+    text-transform: uppercase;
+  }
+  
+  .message {
+    font-size: 40px;
+    text-align: left;
+    background-color: wheat;
+    width: 75%;
+    height: 150px;
+    padding: 20px 20px;
+    margin: 20px auto 40px auto;
+  }
+  
+  #text {
+    width: 75%;
+    font-size: 30px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    display: block;
+  }
+  
+  .btn {
+    font-size: 25px;
+    color: black;
+    background-color: orange;
+    margin: 40px 10px;
+    padding: 10px 15px;
+  }
+  
+  .btn:hover {
+    color: orange;
+    background-color: black;
+  }
